@@ -1,5 +1,9 @@
-# AWNF
-Adaptive Modality Weighting for Integrating Multi-Omics and Histopathology Data in Patient Similarity Networks
+# Adaptive Modality Weighting for Integrating Multi-Omics and Histopathology Data in Patient Similarity Networks
+
+[[Paper & Supplementary]]
+
+## Abstract
+**Summary:** The increasing complexity of patient data, including multi-omics, clinical records, and medical imaging, requires more sophisticated methods to extract meaningful insights. Traditional Patient Similarity Networks (PSNs) often struggle to integrate heterogeneous data due to static similarity measures and fail to account for the varying relevance of each modality. To address this, we introduce Adaptive Weighted Network Fusion (AWNF), which incorporates modality-specific feature weighting and modality-level weighting. This dual weighting strategy ensures that each modality contributes to the integrated similarity network in proportion to its informativeness, enhancing the fused model's robustness and interpretability. AWNF also overcomes a key limitation of traditional PSNs in handling unseen data by enabling adaptive fusion for new data. This makes AWNF seamlessly applicable during the prediction phase of the machine learning framework, significantly enhancing predictive performance. We validated AWNF on a breast cancer cohort, demonstrating that integrating histopathological features (including collagen from whole-slide images (WSIs)) with multi-omics data substantially improves predictive accuracy of clinical outcomes.
 
 # AWNF Package
 
