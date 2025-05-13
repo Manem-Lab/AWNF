@@ -1,0 +1,17 @@
+{
+    "mu_1": 0.7,
+    "snf_k": 10,
+    "snf_t": 10,
+    "snf_metric": "sqeuclidean",
+    "betta": 0.9,
+    "alpha": 1.0,
+    "weights_mod": [
+        0.4,
+        0.3,
+        0.1,
+        0.2
+    ],
+    "select_number": 150,
+    "type_weight": "feat_modal",
+    "path_data": "/Users/sevinjyolchuyeva/Desktop/postdoc/codes/AWSNF/data/afterlasso/"
+}
