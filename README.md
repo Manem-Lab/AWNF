@@ -145,9 +145,7 @@ We are very grateful for their contributions to the community.
 
 ## Authors
 
-**Sevinj Yolchuyeva**  
-Email: [sevinj.yolchuyeva@crchudequebec.ulaval.ca](mailto:sevinj.yolchuyeva@crchudequebec.ulaval.ca)  
-**Venkata Manem**  
-Email: [venkata.manem@crchudequebec.ulaval.ca](mailto:venkata.manem@crchudequebec.ulaval.ca)
+**Sevinj Yolchuyeva, Venkata Manem**  
+Email: [sevinj.yolchuyeva@crchudequebec.ulaval.ca](mailto:sevinj.yolchuyeva@crchudequebec.ulaval.ca), [venkata.manem@crchudequebec.ulaval.ca](mailto:venkata.manem@crchudequebec.ulaval.ca)
 
 Centre de Recherche du CHU de Québec - Université Laval
