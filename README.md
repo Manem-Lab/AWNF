@@ -1,4 +1,4 @@
-# Adaptive Modality Weighting for Integrating Multi-Omics and Histopathology Data in Patient Similarity Networks
+# Adaptive Integration of Heterogeneous Biomedical Data in Patient Networks
 
 [[Paper & Supplementary]]
 
